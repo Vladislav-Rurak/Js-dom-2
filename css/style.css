@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.title-info {
+  background-position: center;
+  background-size: contain/cover;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: blue;
+  width: 200px;
+  height: 100px;
+}
+.main-info {
+  text-align: center;
+}
+
+.date-info {
+  text-align: end;
+}
+
+.news-list {
+  max-width: 1200px;
+  width: 100%;
+  min-width: 320px;
+  margin: 0 auto;
+}
